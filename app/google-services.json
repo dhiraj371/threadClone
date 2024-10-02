@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255082128678",
+    "project_id": "threadclone-58653",
+    "storage_bucket": "threadclone-58653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255082128678:android:d1393aea385b88b76dcde7",
+        "android_client_info": {
+          "package_name": "com.example.threadclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSsKD92FJB7Gzqji7Y8CRO3W8bBvm-03U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
